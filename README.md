@@ -1,2 +1,2 @@
 # JS
-Só treinando Java script.
+Desenho do Mariil pokémon.
